@@ -1,3 +1,4 @@
 this is a test file
 this is meant to pushed to remote master
 another new line add to remote
+this line may cause conflict
